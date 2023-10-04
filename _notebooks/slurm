@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH --job-name=qasrtts            # Job name
+#SBATCH --output=output.save_qasr.%A_%a.txt   # Standard output and error log
+#SBATCH --nodes=1                   # Run all processes on a single node    
+#SBATCH --ntasks=1                  # Run on a single CPU
+#SBATCH --cpus-per-task=128          # Number of CPU cores
+#SBATCH --time=12:00:00             # Specify the time needed for your experiment
+#SBATCH -q cpu-512               # To enable the use of up to 8 GPUs
+
+conda activate speech
+python save_qasrtts.py

@@ -1,0 +1,6 @@
+/l/users/speech_lab/QASR_TTS
+Mahmoud_wav/wavs/7A396A31_092D_4B09_898B_3455C9CED131_speaker1_align_242.63_245.63.wav	48000	spk_emb/qasr_MahmoudMourad_embedding.npy
+Mahmoud_wav/wavs/CC1BFBEA_7EAD_4825_865A_2AE7A05EC711_speaker1_align_182.19_187.03.wav	77440	spk_emb/qasr_MahmoudMourad_embedding.npy
+Mahmoud_wav/wavs/6A3A72F0_E5B2_48B7_B933_CF08BD9ECB82_speaker1_align_449.34_452.89.wav	56802	spk_emb/qasr_MahmoudMourad_embedding.npy
+Mahmoud_wav/wavs/F01E3A07_CCE6_4D05_9D9D_26AD090D035B_speaker1_align_1005.57_1013.08.wav	120162	spk_emb/qasr_MahmoudMourad_embedding.npy
+Mahmoud_wav/wavs/9CF586F4_C2B6_47AB_8CD3_11314E6E9839_speaker1_align_1499.55_1501.77.wav	35520	spk_emb/qasr_MahmoudMourad_embedding.npy
